@@ -13,7 +13,10 @@ function countFlavors(arraysOfStrings) {
     }
     return flavorCount
 }
+
+
 console.log(countFlavors(froyoFlavorsArrays))
+
 
 // const froyoFlavors = ['coffee', 'cheery', 'raspberry', 'vanilla', 'strawberry'];
 
